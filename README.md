@@ -11,19 +11,19 @@ This dataset presents credit card transactions for number of customers , where w
 
 
 Algorithms:
- Feature selection
- SMOTE
- Logistic Regression
- Decision Trees
- Random Forest
- Gradient Boosting
- XGBoost
+Feature selection
+SMOTE
+Logistic Regression
+Decision Trees
+Random Forest
+Gradient Boosting
+XGBoost
 
 Visualization:
- Pie chart: Represent different types of money transactions.
- Factor Plot: Represent the different between legal and fraud transaction
- Bar plot: Represent which type has the highest frauds.
+Pie chart: Represent different types of money transactions.
+Factor Plot: Represent the different between legal and fraud transaction
+Bar plot: Represent which type has the highest frauds.
 
 Tools:
- Technologies :Python,Jupyter Notebook
- Libraires : Pandas, Numpy ,Seaborn ,Sklearn.
+Technologies :Python,Jupyter Notebook
+Libraires : Pandas, Numpy ,Seaborn ,Sklearn.
